@@ -7,7 +7,7 @@
 
 ### 2. IoT
 ### 2. Data Analytics
-#### [https://github.com/JonaFlavier/Sports-Data] - Sports Data Visualistaion
+#### [Sports data histogram](https://github.com/JonaFlavier/Sports-Data) - Sports Data Visualistaion
 ### 3. DevSecOps
 ### 4. Unity XR (Meta Quest Hackathon)
 #### [Catcher in the Stars](https://github.com/jimmyd95/MetaHackathon2.0) - Unity (C#)
