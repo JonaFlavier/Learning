@@ -4,6 +4,7 @@
 
 ### 1. Machine Learning (Current)
 #### [Medical Query Advisor](https://partyrock.aws/u/jaflavier/EXh4dPPgM/Medical-Queries-Advisor) - AWS PartyRock
+#### [Handwritten Digit Classifier](https://github.com/JonaFlavier/Learning/blob/main/MachineLearning/DeepLearning/handwritten_digit_identifier.ipynb)
 
 ### 2. IoT
 ### 2. Data Analytics
