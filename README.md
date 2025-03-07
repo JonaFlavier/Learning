@@ -1,6 +1,6 @@
 # Learning
 
-## This repository will contain notes and code on topics that I become curious about
+## This repository will contain notes and code on topics that I'm interested in exploring
 
 ### 1. Machine Learning (Current)
 #### [Medical Query Advisor](https://partyrock.aws/u/jaflavier/EXh4dPPgM/Medical-Queries-Advisor) - AWS PartyRock
